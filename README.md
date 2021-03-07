@@ -16,7 +16,7 @@
 
   ~~如果搜狗支持深色模式自动切换就好了~~
 
-![image-20210307113806207](/Users/hewro/Documents/personal/sogou-skin/pic/image-20210307113806207.png)
+![image-20210307113806207](pic/image-20210307113806207.png)
 
-![image-20210307113842343](/Users/hewro/Documents/personal/sogou-skin/pic/image-20210307113842343.png)
+![image-20210307113842343](pic/image-20210307113842343.png)
 
